@@ -1,0 +1,106 @@
+[
+  {"question": "What is 1+1?",
+    "option1": "1",
+    "option2": "2",
+    "option3": "5",
+    "option4": "11"
+  },
+  {
+    "question": "What is an adjective?",
+    "option1": "A word used to describe a person, place, or thing.",
+    "option2": "A word used to describe an action",
+    "option3": "A word used to describe the qualities of a noun",
+    "option4": "A word used to describe the qualities of a verb"
+  },
+  {
+    "question": "Which common food item originating from Italy is made from flour and eggs, and is typically boiled?",
+    "option1": "Pasta",
+    "option2": "Creme Brulee",
+    "option3": "Pizza",
+    "option4": "Rice"
+  },
+  {
+    "question": "Which bee produces commercial honey?",
+    "option1": "Bumblebees",
+    "option2": "Carpenter bees",
+    "option3": "Mining bees",
+    "option4": "Honey bees"
+  },
+  {
+    "question": "Which of the following is not a programming language?",
+    "option1": "Java",
+    "option2": "Javascript",
+    "option3": "Coffee",
+    "option4": "Coffeescript"
+  },
+  {
+    "question": "Which Chinese holiday is typically celebrated in late January or early February?",
+    "option1": "Spring Festival",
+    "option2": "Dragon Boat Festival",
+    "option3": "Mid-Autumn Festival",
+    "option4": "Qixi Festival"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "option1": "Berlin",
+    "option2": "Munich",
+    "option3": "Frankfurt",
+    "option4": "Hamburg"
+  },
+  {
+    "question": "In what year was the Declaration of Independence signed?",
+    "option1": "1774",
+    "option2": "1775",
+    "option3": "1776",
+    "option4": "1777"
+  },
+  {
+    "question": "Which organelle is the \"powerhouse\" of the cell?",
+    "option1": "Chloroplast",
+    "option2": "Ribosome",
+    "option3": "Mitochondria",
+    "option4": "Nucleus"
+  },
+  {
+    "question": "What is the tallest ubilding in the world?",
+    "option1": "Eiffel Tower",
+    "option2": "Burj Khalifa",
+    "option3": "Empire State Building",
+    "option4": "Shanghai Tower"
+  },
+  {
+    "question": "Each vertex of a regular dodecagon (12-gon) is to be colored either red or blue, and thus there are 2^12 possible colorings. Find the number of these colorings with the property that no four vertices colored the same color are the four vertices of a rectangle.",
+    "option1": "468",
+    "option2": "624",
+    "option3": "880",
+    "option4": "928"
+  },
+  {
+    "question": "Which statement best describes the structure and bonding in nitromethane, H3C-NO2?",
+    "option1": "Each of the three bonds to nitrogen is a different length",
+    "option2": "The molecule is Lewis acidic because the nitrogen does not obey the octet rule",
+    "option3": "The molecule is Lewis basic because the nitrogen has a lone pair",
+    "option4": "The nitrogen atom has a trigonal planar geometry"
+  },
+  {
+    "question": "Three groups of Arabidopsis seedlings are subjected to a short burst of ethylene. Group A is comprised of ethylene-insensitive (ein) mutants. Group B consists of constitutive triple-response (ctr) mutants. Group C is also subjected to high levels of abscisic acid. Group D serves as a control (wild type) and receives the ethylene treatment. Which group is likely to be the tallest after a few days of the treatment?",
+    "option1": "Group A",
+    "option2": "Group B",
+    "option3": "Group C",
+    "option4": "Group D"
+  },
+  {
+    "question": "A steam turbine has an inlet of 2 kg/s water at 1000 kPa, 350°C and velocity of 15 m/s. The exit is at 100 kPa, x = 1 and very low velocity. Find the specific work.",
+    "option1": "382.3 kJ/kg",
+    "option2": "482.3 kJ/kg",
+    "option3": "582.3 kJ/kg",
+    "option4": "682.3 kJ/kg"
+  },
+  {
+    "question": "What is 1+1?",
+    "option1": "1",
+    "option2": "2",
+    "option3": "5",
+    "option4": "11"
+  }
+]
