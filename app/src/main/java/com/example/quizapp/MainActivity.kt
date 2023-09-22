@@ -28,7 +28,8 @@ class MainActivity : AppCompatActivity() {
         Log.d(TAG, "Questions: $questions")
 
         quiz = QuizGame(questions)
-        // create Quiz object and pass in list of questions as a parameter
+
+
         // do the initial question and answer choices setup
         // set listeners to react to user input
         // passing info to and from the Quiz object
