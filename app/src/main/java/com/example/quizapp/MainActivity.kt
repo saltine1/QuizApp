@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var option2: Button
     lateinit var option3: Button
     lateinit var option4: Button
+    lateinit var score: TextView
     companion object{
         val TAG = "MainActivity"
     }
@@ -47,10 +48,26 @@ class MainActivity : AppCompatActivity() {
 
         // set listeners to react to user input
         option1.setOnClickListener {
-            quiz.optChosen(1)
+            optionChosen(quiz,1)
+        }
+        option2.setOnClickListener {
+            optionChosen(quiz,2)
+
+        }
+        option3.setOnClickListener {
+            optionChosen(quiz,3)
+        }
+        option4.setOnClickListener{
+            optionChosen(quiz,4)
         }
         // passing info to and from the Quiz object
 
+    }
+
+    fun optionChosen(q: QuizGame, n: Int){
+        q.optChosen(n)
+        q.loadQuestion(questionText,option1,option2,option3,option4)
+        q.updateScore(score)
     }
     fun wire() {
         questionText = findViewById(R.id.textview_main_question)
@@ -58,5 +75,6 @@ class MainActivity : AppCompatActivity() {
         option2 = findViewById(R.id.button_main_option2)
         option3 = findViewById(R.id.button_main_option3)
         option4 = findViewById(R.id.button_main_option4)
+        score = findViewById(R.id.textview_main_score)
     }
 }
